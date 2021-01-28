@@ -1,2 +1,2 @@
-# course_work_3
+# paintball_game
 Course work C#: Paintball (speedball) game on Unity
